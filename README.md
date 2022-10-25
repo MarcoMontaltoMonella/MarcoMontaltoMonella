@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MarcoMontaltoMonella
-- 👀 I’m interested in public speaking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in public speaking, databases, full-stack development, and distributed systems
+- 🌱 I’m currently learning GraphQL
+- 📫 How to reach me: https://mmmarco.com
 
 <!---
 MarcoMontaltoMonella/MarcoMontaltoMonella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
