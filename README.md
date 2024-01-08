@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcoMontaltoMonella
 - 🧑‍💻 SRE [@Microsoft](https://github.com/microsoft), former MySQL PE [@Meta/Facebook](https://github.com/facebook)
 - 👀 I’m interested in public speaking, databases, full-stack development, and distributed systems
-- 🌱 I’m currently learning Powershell, Kusto, and all things Cosmos DB
+- 🌱 I’m currently learning Godot, Powershell, Kusto, and all things Cosmos DB
 - 📫 How to reach me: https://mmmarco.com
 
 <!---
